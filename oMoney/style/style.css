@@ -1,0 +1,36 @@
+body{
+    background-color: #0069d6;    
+}
+
+.accueil{
+    padding-top: 10%;
+}
+
+.cadre{
+    background-color: #fff;
+    color: black;
+}
+
+.control{
+    font-weight: bold;
+    color: red;
+}
+
+.presentation{
+    color: #fff;
+}
+
+.error{
+    background-color: red;
+    color: white;
+}
+
+.elementMenu{
+    margin-right: 25px;
+}
+
+.nom{
+    padding-top: 15px;
+    font-size: 15px;
+    margin-left: 25px;
+}

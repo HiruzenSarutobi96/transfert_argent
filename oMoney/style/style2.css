@@ -1,0 +1,10 @@
+body{
+    margin-top: 80px;
+}
+
+.titrePage{
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: underline;
+}
